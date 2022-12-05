@@ -18,4 +18,6 @@ def compute():
 		x, y = y, x + y
 	return str(ans)
 
+print(compute())
+
 # 4613732
